@@ -11,7 +11,7 @@
 
 
 
-### <center>Tech I work with</center>  
+<h3 align="center">Tech I work with</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" />  
@@ -40,7 +40,7 @@
 
 
 
-### <center>Find me on the web</center>  
+<h3 align="center">Find me on the web</h3>
 <div align="center">
 <a href="https://github.com/Danex2" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
