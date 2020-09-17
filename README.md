@@ -4,7 +4,7 @@
 **<div align="center">My name is Dane, I am a Frontend Developer / Cloud newbie located in Toronto, ON 🇨🇦</div>**  
   
 
-<div align="center">Outside of making cool websites I enjoy photography, playing video games, reading and skateboarding.</div>  
+**<div align="center">Outside of making cool websites I enjoy photography, playing video games, reading and skateboarding.</div>**
   
 
 <br/>  
@@ -12,7 +12,7 @@
 
 
 <h3 align="center">Tech I work with</h3>
-<div align="center">  
+<div style="display: grid; grid-template-columns: repeat(4, 1fr);">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
