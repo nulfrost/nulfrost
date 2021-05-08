@@ -1,7 +1,7 @@
 **<div align="center">Howdy 👋</div>**  
   
 
-**<div align="center">My name is Dane, I am a Frontend Developer / Cloud newbie located in Toronto, ON 🇨🇦</div>**  
+**<div align="center">My name is Dane, I am a Frontend / Fullstack Cloud enthusiast located in Toronto, ON 🇨🇦</div>**  
   
 
 **<div align="center">I enjoy making websites using React/Next.js, GraphQL, Node, and TailwindCSS. Outside of making cool websites I enjoy photography, playing video games, reading and skateboarding.</div>**
