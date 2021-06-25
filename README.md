@@ -1,4 +1,4 @@
-**<div align="center">Howdy 👋 currently looking for a full-time position!!</div>**  
+**<div align="center">Howdy 👋 </div>**  
   
 
 **<div align="center">My name is Dane, I am a Frontend / Fullstack Cloud enthusiast located in Toronto, ON 🇨🇦</div>**  
