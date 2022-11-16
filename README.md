@@ -1,5 +1,5 @@
 # Who am I?
-Hey, I'm Dane. Currently working as a frontend developer at BMO on the accessibility team.
+Hey, I'm Dane. Currently working as a frontend developer at BMO on the platform team.
 
 ## Current interests
 My interests tend to change from week to week but right now I'm currently focused on learning more about accessibility, learning golang, and reading a lot about system design / cloud technologies.
