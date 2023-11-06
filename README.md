@@ -1,5 +1,5 @@
 # Who am I?
-Hey, I'm Dane. Currently working as a frontend developer at BMO on the platform team.
+Hey, I'm Dane. A frontend/fullstack developer looking for my next role! Feel free to contact me about any intermediate software development positions!
 
 ## Current interests
 My interests include learning about accessibility, cloud technologies, golang, rust and building useless side projects.
