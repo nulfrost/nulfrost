@@ -10,6 +10,6 @@ My current interests are DevOps, Game Development, learning Go and reading tech 
 In my spare time I enjoy watching Formula 1, basketball, listening to music, playing video games, working out and trying out new food!
 
 ## Where to find me on the web
-- [threads]([https://twitter.com/hybridearth](https://www.threads.net/@dane__m))
+- [threads](https://www.threads.net/@dane__m)
 - [linkedin](https://www.linkedin.com/in/dmiller94/)
 - [personal website](https://dane.computer)
